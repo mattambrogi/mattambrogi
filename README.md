@@ -14,7 +14,7 @@ If you'd like to take a look at some of my projects, here are a few to start wit
 - [Shopify for Job Boards](https://github.com/mattambrogi/job-board-platform)
 
 
-📫 If you'd like to reach me about anything: matthewambrogi [at] gmail dotcom
+📫 If you'd like to reach me about anything: matthew.ambrogi [at] gmail dotcom
 
 <!--
 **mattambrogi/mattambrogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
